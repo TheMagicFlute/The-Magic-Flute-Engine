@@ -44,4 +44,4 @@ version: 0.1
 
 [GPL-3.0 license](./LICENSE)
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2TheMagicFlute%2The-Magic-Flute-Engine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTheMagicFlute%The-Magic-Flute-Engine?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTheMagicFlute%2FThe-Magic-Flute-Engine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTheMagicFlute%2FThe-Magic-Flute-Engine?ref=badge_large)
